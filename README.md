@@ -6,7 +6,7 @@
 
 I am a **Lead Solutions Architect / Lead Professional Services** at [Symphony.com](https://symphony.com) based in London, England, United Kingdom. With a passion for tackling challenges, I bring extensive experience in various IT industry sectors, from startups to enterprises, focusing on customer success. I am trilingual, proficient in English, French, and Tamil, and have a strong background in computer systems, architecture, distributed databases and system automation.
 
-# I have had the following roles:
+### I have had the following roles:
 
 - Lead Professional Services
 - Lead Solutions Architect/Presales Engineer
