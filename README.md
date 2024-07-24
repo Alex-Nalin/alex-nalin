@@ -1,4 +1,4 @@
-# Hi there, I'm Alexandre Nalin (Nimo)👋
+# Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Alexandre%20Nalin&fontSize=90)
 
@@ -90,7 +90,8 @@ I am a **Lead Solutions Architect / Lead Professional Services** at [Symphony.co
 In my free time, I enjoy digital media, streaming & encoding, VR, and anything technology-related.
 
 
-
+<!-- my-badges start -->
+<!-- my-badges end -->
 
 Since 24/7/2024:
 ![](https://komarev.com/ghpvc/?username=alex-nalin&color=green)
