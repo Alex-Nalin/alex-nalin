@@ -2,6 +2,8 @@
 
 ![Profile Banner](https://via.placeholder.com/800x200.png?text=Alexandre+Nalin)
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Alexandre%20Nalin&fontSize=90)
+
 ## 🚀 About Me
 
 I am a **Lead Solutions Architect / Lead Professional Services** at [Symphony.com](https://symphony.com) based in London, England, United Kingdom. With a passion for tackling challenges, I bring extensive experience in various IT industry sectors, from startups to enterprises, focusing on customer success. I am trilingual, proficient in English, French, and Tamil, and have a strong background in computer systems, architecture, distributed databases and system automation.
@@ -92,7 +94,5 @@ In my free time, I enjoy digital media, streaming & encoding, VR, and anything t
 
 
 
-Number of Visitors Since 24/7/2024:
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-
-![Visitor Count](https://profile-counter.glitch.me/{alex-nalin}/count.svg)
+Since 24/7/2024:
+![](https://komarev.com/ghpvc/?username=alex-nalin&color=green)
