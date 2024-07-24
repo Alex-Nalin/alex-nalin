@@ -6,11 +6,20 @@
 
 I am a **Lead Solutions Architect / Lead Professional Services** at [Symphony.com](https://symphony.com) based in London, England, United Kingdom. With a passion for tackling challenges, I bring extensive experience in various IT industry sectors, from startups to enterprises, focusing on customer success. I am trilingual, proficient in English, French, and Tamil, and have a strong background in computer systems, architecture, distributed databases and system automation.
 
+# I have had the following roles:
+
+- Lead Professional Services
+- Lead Solutions Architect/Presales Engineer
+- Lead API Technical Engineer
+- Senior Technical Account Manager/Service Account Manager
+- Senior Technical Solution Consultant
+- Application Engineer
+
 ## 🔧 Skills
 
 - **Programming Languages:** Python, JavaScript
 - **Technologies:** API, coding, Git, Docker, Kubernetes Test Automation
-- **Specialties:** Technical Account Managenement, Presale Engerering, Software Testing, Test Automation, Test Management, Programming and Design, QuickTest Pro (QTP) - Unified Functional Testing (UFT), Quality Center (QC) - Application Lifecycle Management (ALM), Performance Center (PC)
+- **Specialties:** Technical Account Management, Presale Engineering, Software Testing, Test Automation, Test Management, Programming and Design, QuickTest Pro (QTP) - Unified Functional Testing (UFT), Quality Center (QC) - Application Lifecycle Management (ALM), Performance Center (PC)
 
 ## 📚 Certifications
 
@@ -74,7 +83,7 @@ I am a **Lead Solutions Architect / Lead Professional Services** at [Symphony.co
 
 ## 🖥️ Projects
 
-- [Nimo Codec Pack (NCP)](https://link-to-project)
+- [Nimo Codec Pack (NCP)]([https://link-to-project](https://www.google.com/search?q=nimo+codec+pack&rlz=1C1CHBD_en-GBGB1059GB1059&oq=nimo+codec+pack&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxiABDIJCAAQRRg7GIAEMgYIARBFGDsyBggCEEUYQDIHCAMQABiABDIICAQQABgWGB4yCggFEAAYgAQYogQyCggGEAAYgAQYogQyCggHEAAYgAQYogTSAQgzMDQ3ajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8))
 
 ## 🏡 Hobbies
 
