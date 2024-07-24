@@ -90,5 +90,9 @@ I am a **Lead Solutions Architect / Lead Professional Services** at [Symphony.co
 In my free time, I enjoy digital media, streaming & encoding, VR, and anything technology-related.
 
 
-Since 24/7/2024
+
+
+Number of Visitors Since 24/7/2024:
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 ![Visitor Count](https://profile-counter.glitch.me/{alex-nalin}/count.svg)
