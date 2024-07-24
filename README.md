@@ -1,8 +1,6 @@
 # Hi there, I'm Alexandre Nalin (Nimo)👋
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Alexandre+Nalin)
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Alexandre%20Nalin&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Alexandre%20Nalin&fontSize=90)
 
 ## 🚀 About Me
 
