@@ -88,3 +88,7 @@ I am a **Lead Solutions Architect / Lead Professional Services** at [Symphony.co
 ## 🏡 Hobbies
 
 In my free time, I enjoy digital media, streaming & encoding, VR, and anything technology-related.
+
+
+Since 24/7/2024
+![Visitor Count](https://profile-counter.glitch.me/{alex-nalin}/count.svg)
