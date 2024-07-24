@@ -19,7 +19,7 @@
 
 <h4><a href="https://github.com/ryo-ma/github-profile-trophy">My Trophies (Public repos only)</a></h4>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=alex-nalin&theme=juicyfresh)]
+![trophy](https://github-profile-trophy.vercel.app/?username=alex-nalin&theme=juicyfresh)
 
 ## 🚀 About Me
 
