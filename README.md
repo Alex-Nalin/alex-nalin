@@ -42,26 +42,26 @@ I am a **Lead Solutions Architect / Lead Professional Services** at [Symphony.co
 
 ## 💼 Experience
 
-### ![Symphony](https://media.licdn.com/dms/image/D560BAQEj0XEBQJCPqQ/company-logo_100_100/0/1719837522360/symphonycomm_logo?e=1729728000&v=beta&t=6iqhyXiH-H1hV8QjpLxN9l7Vz1zj0ipK8gYgfaBMR4E) **Symphony**
+### ![Symphony](https://github.com/Alex-Nalin/alex-nalin/blob/main/symphonycomm_logo.jfif) **Symphony**
 - **Lead Solutions Architect** (April 2024 - Present)
 - **Senior Solutions Architect** (February 2022 - April 2024)
 - **Solutions Architect** (April 2019 - February 2022)
 - **Lead API Technical Engineer** (May 2017 - April 2019)
 
-### ![Violin Memory](https://media.licdn.com/dms/image/C560BAQHzhLaIpwGCqA/company-logo_100_100/0/1630613063114/violinsystems_logo?e=1729728000&v=beta&t=XBHVqVlpDP94rTUzoqreH2NTL53KNXjRh5XgcGObYsw) **Violin Memory**
+### ![Violin Memory](https://github.com/Alex-Nalin/alex-nalin/blob/main/violinsystems_logo.jfif) **Violin Memory**
 - **Service Account Manager** (February 2016 - December 2016)
 
-### ![Basho](https://media.licdn.com/dms/image/C560BAQH_RzsE5z7LZw/company-logo_100_100/0/1631305817854?e=1729728000&v=beta&t=6svvBqVfVL8WoffWa2kvi5OEbxcR0T3s3VYUrjau49Q) **Basho Technologies, Inc**
+### ![Basho](https://github.com/Alex-Nalin/alex-nalin/blob/main/Basho.jfif) **Basho Technologies, Inc**
 - **Technical Account Manager** (November 2014 - February 2016)
 
-### ![HP](https://media.licdn.com/dms/image/C4E0BAQH6qdm7VJ5BPA/company-logo_100_100/0/1630642519868/hewlett_packard_enterprise_logo?e=1729728000&v=beta&t=YUgdlmGv6JJD-pZ69HASMVQbIBAqrSMm6KbQ0o0530o) **Hewlett-Packard**
+### ![HP](https://github.com/Alex-Nalin/alex-nalin/blob/main/HP.jfif) **Hewlett-Packard**
 - **Senior Technical Account Manager** (January 2008 - October 2014)
 - **Senior Technical Solution Consultant** (March 2008 - January 2010)
 
-### **Mercury Interactive**
+### ![Mercury Interactive](https://github.com/Alex-Nalin/alex-nalin/blob/main/mercury-interactive-corp1.png) **Mercury Interactive**
 - **Application Engineer** (February 2006 - March 2008)
 
-### ![Blockbuster](https://media.licdn.com/dms/image/C560BAQHH9WGXRGNH-Q/company-logo_100_100/0/1631322073617?e=1729728000&v=beta&t=FVogXZFb7iytngkJ1-ucfIcLwQCP3sd2LYZB0cr1s2k) **Blockbuster**
+### ![Blockbuster](https://github.com/Alex-Nalin/alex-nalin/blob/main/blockbuster.jfif) **Blockbuster**
 - **Senior Customer Service Representative** (June 2001 - August 2005)
 
 ## 🎓 Education
