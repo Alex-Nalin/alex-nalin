@@ -83,7 +83,7 @@ I am a **Lead Solutions Architect / Lead Professional Services** at [Symphony.co
 
 ## 🖥️ Projects
 
-- [Nimo Codec Pack (NCP)](https://link-to-project](https://www.google.com/search?q=nimo+codec+pack&rlz=1C1CHBD_en-GBGB1059GB1059&oq=nimo+codec+pack&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxiABDIJCAAQRRg7GIAEMgYIARBFGDsyBggCEEUYQDIHCAMQABiABDIICAQQABgWGB4yCggFEAAYgAQYogQyCggGEAAYgAQYogQyCggHEAAYgAQYogTSAQgzMDQ3ajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8))
+- [Nimo Codec Pack (NCP)](https://www.softpedia.com/get/Multimedia/Video/Codec-Packs-Video-Codecs/Nimo-Codec-Pack.shtml)
 
 ## 🏡 Hobbies
 
