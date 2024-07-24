@@ -42,26 +42,26 @@ I am a **Lead Solutions Architect / Lead Professional Services** at [Symphony.co
 
 ## 💼 Experience
 
-### ![Symphony](https://github.com/Alex-Nalin/alex-nalin/blob/main/symphonycomm_logo.jfif) **Symphony**
+### ![Symphony](https://github.com/Alex-Nalin/alex-nalin/blob/main/symphony%201.jpg) **Symphony**
 - **Lead Solutions Architect** (April 2024 - Present)
 - **Senior Solutions Architect** (February 2022 - April 2024)
 - **Solutions Architect** (April 2019 - February 2022)
 - **Lead API Technical Engineer** (May 2017 - April 2019)
 
-### ![Violin Memory](https://github.com/Alex-Nalin/alex-nalin/blob/main/violinsystems_logo.jfif) **Violin Memory**
+### ![Violin Memory](https://github.com/Alex-Nalin/alex-nalin/blob/main/violinsystems%201.jpg) **Violin Memory**
 - **Service Account Manager** (February 2016 - December 2016)
 
-### ![Basho](https://github.com/Alex-Nalin/alex-nalin/blob/main/Basho.jfif) **Basho Technologies, Inc**
+### ![Basho](https://github.com/Alex-Nalin/alex-nalin/blob/main/Basho%201.jpg) **Basho Technologies, Inc**
 - **Technical Account Manager** (November 2014 - February 2016)
 
-### ![HP](https://github.com/Alex-Nalin/alex-nalin/blob/main/HP.jfif) **Hewlett-Packard**
+### ![HP](https://github.com/Alex-Nalin/alex-nalin/blob/main/HP%201.jpg) **Hewlett-Packard**
 - **Senior Technical Account Manager** (January 2008 - October 2014)
 - **Senior Technical Solution Consultant** (March 2008 - January 2010)
 
-### ![Mercury Interactive](https://github.com/Alex-Nalin/alex-nalin/blob/main/mercury-interactive-corp1.png) **Mercury Interactive**
+### ![Mercury Interactive](https://github.com/Alex-Nalin/alex-nalin/blob/main/mercury%20interactive%201.png) **Mercury Interactive**
 - **Application Engineer** (February 2006 - March 2008)
 
-### ![Blockbuster](https://github.com/Alex-Nalin/alex-nalin/blob/main/blockbuster.jfif) **Blockbuster**
+### ![Blockbuster](https://github.com/Alex-Nalin/alex-nalin/blob/main/blockbuster%201.jpg) **Blockbuster**
 - **Senior Customer Service Representative** (June 2001 - August 2005)
 
 ## 🎓 Education
