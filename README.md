@@ -108,6 +108,11 @@ I am a **Lead Solutions Architect / Lead Professional Services** at [Symphony.co
 
 In my free time, I enjoy digital media, streaming & encoding, VR, and anything technology-related.
 
+Some random API generated "Dad Jokes"  
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 Since 24/7/2024:
 
