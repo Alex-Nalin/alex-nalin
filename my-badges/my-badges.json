@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/a400f47057e1c557a5e90a4ae20ba2dcb982351f\"><strong>a</strong>400f47057e1c557a5e90a4ae20ba2dcb982351f</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/Alex-Nalin/Mention/commit/ab90ae9be533f1c1561340d7ccecbdd0c7246b9c\"><strong>ab</strong>90ae9be533f1c1561340d7ccecbdd0c7246b9c</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/5e40241ef661f0bf7290ab89fc2efdbfe5cd0935\">5e40241</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"to\".",
+    "body": "My favorite commit message words are:\n\n1. to (used 101 times)\n2. updated (used 78 times)\n3. and (used 75 times)\n4. for (used 56 times)\n5. added (used 45 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/d3859adc16aa769101668fa2828a62c0c9b87aed\">d3859ad</a>: Fixed symphonyUser which was causing problem for /zdcomments and other calls like /funquote..\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/927c799614e8fdc54372e7ea4c66fa248da1de52\">927c799</a>: Fixed issue of payload due to change in API",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/1ec5cc856c09c9bebf36a66b5016ef40ab386c49\">1ec5cc8</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/f955a21ffd72ca85112f58aaa4bc04450da8f82a\">f955a21</a>\n- <a href=\"https://github.com/Alex-Nalin/ZBot_v1/commit/dade7bc97a708dbe694921f9cf4ede684559c238\">dade7bc</a>\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/0ace723fc49a873014b3b5a77601e6e74430e0bb\">0ace723</a>\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/2347b57133c8cebdebe8cad734e3cfc9e9a40382\">2347b57</a>\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/210e17732afbfd03202b26a93fd2cae3c97c2ba2\">210e177</a>\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/731f31ac07cc918a6e513d43f7ad237b9b2ffb15\">731f31a</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/a9a6b0b0ab095ef8e8a6c484bc81a2348ca78f8d\">a9a6b0b</a>\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/090c0807ed68e3c2be8327363efeada4a70c8d0f\">090c080</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
