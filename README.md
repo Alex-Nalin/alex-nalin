@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Alexandre%20Nalin&fontSize=90)
 
 <!-- my-badges start -->
-<h4><a href="https://github.com/my-badges/my-badges">My Badges (Public repos only)</a></h4>
+<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
 
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
