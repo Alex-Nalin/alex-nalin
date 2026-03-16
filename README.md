@@ -32,13 +32,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alex-Nalin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alex's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-hazel-theta-26.vercel.app/api?username=Alex-Nalin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Alex's GitHub Stats" />
   &nbsp;&nbsp;
   <img height="170" src="https://streak-stats.demolab.com/?user=Alex-Nalin&theme=tokyonight&hide_border=true" alt="Alex's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Nalin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-hazel-theta-26.vercel.app/api/top-langs/?username=Alex-Nalin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
