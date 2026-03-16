@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/d3859adc16aa769101668fa2828a62c0c9b87aed">d3859ad</a>: Fixed symphonyUser which was causing problem for /zdcomments and other calls like /funquote..
-- <a href="https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/927c799614e8fdc54372e7ea4c66fa248da1de52">927c799</a>: Fixed issue of payload due to change in API
+- <a href="https://github.com/Alex-Nalin/MentionBot_2.0/commit/171680726809ea10a6c424ccb57179593b2dda5b">1716807</a>: Fixed reply and forwarded message scenarios
+- <a href="https://github.com/Alex-Nalin/MentionBot_2.0/commit/073ba57034e3140df5efda8e652b3a8fa63d487c">073ba57</a>: Fixed reply and forwarded message scenarios
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

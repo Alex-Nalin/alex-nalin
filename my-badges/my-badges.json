@@ -30,15 +30,15 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"to\".",
-    "body": "My favorite commit message words are:\n\n1. to (used 101 times)\n2. updated (used 78 times)\n3. and (used 75 times)\n4. for (used 56 times)\n5. added (used 45 times)",
+    "desc": "My favorite word is \"updated\".",
+    "body": "My favorite commit message words are:\n\n1. updated (used 87 times)\n2. added (used 54 times)\n3. took (used 38 times)\n4. minutes (used 38 times)\n5. update (used 37 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/d3859adc16aa769101668fa2828a62c0c9b87aed\">d3859ad</a>: Fixed symphonyUser which was causing problem for /zdcomments and other calls like /funquote..\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/927c799614e8fdc54372e7ea4c66fa248da1de52\">927c799</a>: Fixed issue of payload due to change in API",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Alex-Nalin/MentionBot_2.0/commit/171680726809ea10a6c424ccb57179593b2dda5b\">1716807</a>: Fixed reply and forwarded message scenarios\n- <a href=\"https://github.com/Alex-Nalin/MentionBot_2.0/commit/073ba57034e3140df5efda8e652b3a8fa63d487c\">073ba57</a>: Fixed reply and forwarded message scenarios",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/f955a21ffd72ca85112f58aaa4bc04450da8f82a\">f955a21</a>\n- <a href=\"https://github.com/Alex-Nalin/ZBot_v1/commit/dade7bc97a708dbe694921f9cf4ede684559c238\">dade7bc</a>\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/0ace723fc49a873014b3b5a77601e6e74430e0bb\">0ace723</a>\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/2347b57133c8cebdebe8cad734e3cfc9e9a40382\">2347b57</a>\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/210e17732afbfd03202b26a93fd2cae3c97c2ba2\">210e177</a>\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/731f31ac07cc918a6e513d43f7ad237b9b2ffb15\">731f31a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Alex-Nalin/MentionBot_2.0/commit/ed8698718567f1e887acda5d368129dfbeed2ea5\">ed86987</a>\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/f955a21ffd72ca85112f58aaa4bc04450da8f82a\">f955a21</a>\n- <a href=\"https://github.com/Alex-Nalin/ZBot_v1/commit/dade7bc97a708dbe694921f9cf4ede684559c238\">dade7bc</a>\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/0ace723fc49a873014b3b5a77601e6e74430e0bb\">0ace723</a>\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/2347b57133c8cebdebe8cad734e3cfc9e9a40382\">2347b57</a>\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/210e17732afbfd03202b26a93fd2cae3c97c2ba2\">210e177</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -68,5 +68,26 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/a9a6b0b0ab095ef8e8a6c484bc81a2348ca78f8d\">a9a6b0b</a>\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/090c0807ed68e3c2be8327363efeada4a70c8d0f\">090c080</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Alex-Nalin/Symphony-Zendesk-Bot-v2/commit/965178034aafc3a376c29230c353d45cbb5a671e\">9651780</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Alex-Nalin/alex-nalin/commit/2b2a775d22b84e9a6ed715c09391a08fe18def74\">2b2a775</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Alex-Nalin/MentionBot_2.0/commit/e1bb51389e0860b76ef252d8199aae74f42473e7\">e1bb513</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   }
 ]
