@@ -32,7 +32,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alex-Nalin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Alex's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alex-Nalin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alex's GitHub Stats" />
   &nbsp;&nbsp;
   <img height="170" src="https://streak-stats.demolab.com/?user=Alex-Nalin&theme=tokyonight&hide_border=true" alt="Alex's GitHub Streak" />
 </p>
