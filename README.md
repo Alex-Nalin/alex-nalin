@@ -170,6 +170,7 @@
 
 ## 🖥️ Projects
 
+- 🌐 [**Portfolio & Demo Site**](https://alexnalin.vercel.app) — Live showcase of UI/UX design, animations & interactive workflows
 - 📦 [**Nimo Codec Pack (NCP)**](https://www.softpedia.com/get/Multimedia/Video/Codec-Packs-Video-Codecs/Nimo-Codec-Pack.shtml) — Multimedia codec pack for video encoding & streaming
 
 ---
@@ -213,6 +214,10 @@ In my free time I enjoy **digital media**, **streaming & encoding**, **VR**, and
   &nbsp;
   <a href="https://github.com/Alex-Nalin">
     <img src="https://img.shields.io/badge/GitHub-Alex--Nalin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://alexnalin.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-alexnalin.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
